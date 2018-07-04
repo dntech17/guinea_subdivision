@@ -1,6 +1,6 @@
 {
   "name": "guinee-statistiques",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Des statistiques fiables pour la prise de décisions de la Guinée",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Malal91/guinee-statistiques/issues"
   },
-  "homepage": "https://github.com/Malal91/guinee-statistiques#readme"
+  "homepage": "https://github.com/Malal91/guinee-statistiques#readme",
+  "dependencies": {
+    "guinee-statistiques": "^1.0.0"
+  }
 }
