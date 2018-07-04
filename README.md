@@ -1,15 +1,15 @@
-# Pourquoi guinee-statistiques
+# guinee-statistiques
 
 Dans le but de répondre aux besoins sans cesse croissants de l'ensemble des utilisateurs des statistiques sur la Guinée, ce package est mis à la disposition des développeurs souhaitant, recupérer des données des statistiques de la Guinée en type d'Objet où en Array, pour d'eventuel utilisation quelque soit le contexte de l'utilisation.
 
 ## Installation
 
-Utilisation de yarn:
+Avec yarn:
 ```shell
 $ yarn add guinee-statistiques
 ```
 
-Utilisation de npm:
+Avec npm:
 ```shell
 $ npm i -g guinee-statistiques
 $ npm i --save guinee-statistiques
