@@ -18,23 +18,23 @@ $ npm i --save guinea-subdivision
 Utilisation:
 ```js
 // Pour recupérer toutes les prefectures de la Guinée(retour en array).
-const {prefectures} = require('guinee-subdivision');
+const {prefectures} = require('guinea-subdivision');
 console.log(prefectures)
 
 // Pour recupérer toutes les sous prefectures de la Guinée(return en array).
-const {sousPrefectures} = require('guinee-subdivision');
+const {sousPrefectures} = require('guinea-subdivision');
 console.log(sousPrefectures)
 
 // Pour recuperer toutes les régions de la Guinée(retour en array).
-const {regions} = require('guinee-subdivision');
+const {regions} = require('guinea-subdivision');
 console.log(regions)
 
 // Pour recuperer toutes les sous prefectures liées à une prefecture.
-const {prefectureSousPrefectures} = require('guinee-subdivision');
+const {prefectureSousPrefectures} = require('guinea-subdivision');
 console.log(prefectureSousPrefectures('Boffa')) // La fonction attend un paramètre(le nom de la prefecture)
 
 // vous pouvez toutes les combinées comme suit.
-var {prefectures, regions, souPrefectures, prefectureSousPrefectures} = require('guinee-subdivision');
+var {prefectures, regions, souPrefectures, prefectureSousPrefectures} = require('guinea-subdivision');
 ```
 
 **Site de réference:**<br>
