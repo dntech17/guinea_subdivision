@@ -1,22 +1,22 @@
 {
-  "name": "guinee-statistiques",
-  "version": "1.0.1",
-  "description": "Des statistiques fiables pour la prise de décisions de la Guinée",
+  "name": "guinea-subdivision",
+  "version": "1.0.0",
+  "description": "Des subdivision fiables pour la prise de décisions de la Guinée",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Malal91/guinee-statistiques.git"
+    "url": "git+https://github.com/Malal91/guinea-subdivision.git"
   },
   "author": "Amadou Malal Diallo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Malal91/guinee-statistiques/issues"
+    "url": "https://github.com/Malal91/guinea-subdivision.git/issues"
   },
-  "homepage": "https://github.com/Malal91/guinee-statistiques#readme",
+  "homepage": "https://github.com/Malal91/guinea-subdivision.git#readme",
   "dependencies": {
-    "guinee-statistiques": "^1.0.0"
+    "guinea-subdivision": "^1.0.0"
   }
 }
