@@ -1,6 +1,6 @@
 # guinee-statistiques
 
-Dans le but de répondre aux besoins sans cesse croissants de l'ensemble des utilisateurs des subdivison sur la Guinée, ce package est mis à la disposition des développeurs souhaitant, recupérer des données de subdivision de la Guinée en type d'Objet où en Array, pour d'éventuel utilisation quelque soit le contexte de l'utilisation.
+Dans le but de répondre aux besoins sans cesse croissants de l'ensemble des utilisateurs des subdivison sur la Guinée, ce package est mis à la disposition des développeurs souhaitant, recupérer des données de subdivision de la Guinée en type d'Objet où en Array, pour d'éventuel utilisation quelque soit le contexte d'utilisation.
 
 ## Installation
 
@@ -18,23 +18,23 @@ $ npm i --save guinea-subdivision
 Utilisation:
 ```js
 // Pour recupérer toutes les prefectures de la Guinée(retour en array).
-const {prefectures} = require('guinea-subdivision');
-console.log(prefectures)
+const {getPrefectures} = require('guinea-subdivision')
+console.log(getPrefectures)
 
 // Pour recupérer toutes les sous prefectures de la Guinée(return en array).
-const {sousPrefectures} = require('guinea-subdivision');
-console.log(sousPrefectures)
+const {getSousprefectures} = require('guinea-subdivision')
+console.log(getSousprefectures)
 
 // Pour recuperer toutes les régions de la Guinée(retour en array).
-const {regions} = require('guinea-subdivision');
-console.log(regions)
+const {getRegions} = require('guinea-subdivision')
+console.log(getRegions)
 
 // Pour recuperer toutes les sous prefectures liées à une prefecture.
-const {prefectureSousPrefectures} = require('guinea-subdivision');
-console.log(prefectureSousPrefectures('Boffa')) // La fonction attend un paramètre(le nom de la prefecture)
+const {getSousprefecturesByPrefecture} = require('guinea-subdivision')
+console.log(getSousprefecturesByPrefecture('Boffa')) // La fonction attend un paramètre(le nom de la prefecture)
 
 // vous pouvez toutes les combinées comme suit.
-var {prefectures, regions, souPrefectures, prefectureSousPrefectures} = require('guinea-subdivision');
+const {getPrefectures, getRegions, getSousprefectures, getSousprefecturesByPrefecture} = require('guinea-subdivision')
 ```
 
 **Site de réference:**<br>
