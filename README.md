@@ -43,7 +43,7 @@ console.log(getSousprefecturesByPrefecture('Boffa')) // La fonction attend un pa
 
 // Pour recuperer tous les quartiers liées à une commune.
 const {getQuartiersByCommune} = require('guinea-subdivision')
-console.log(getQuartiersByCommune('Kaloum')) // La fonction attend un paramètre(le nom de la prefecture)
+console.log(getQuartiersByCommune('Kaloum')) // La fonction attend un paramètre(le nom de la commune)
 
 // vous pouvez toutes les combinées comme suit.
 const {getPrefectures, getRegions, getSousprefectures, getSousprefecturesByPrefecture, getQuartiers, getCommunes} = require('guinea-subdivision')
