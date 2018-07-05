@@ -1,4 +1,4 @@
-# guinee-statistiques
+# guinea-subdivision
 
 Dans le but de répondre aux besoins sans cesse croissants de l'ensemble des utilisateurs des subdivison sur la Guinée, ce package est mis à la disposition des développeurs souhaitant, recupérer des données de subdivision de la Guinée en type d'Objet où en Array, pour d'éventuel utilisation quelque soit le contexte d'utilisation.
 
@@ -29,12 +29,24 @@ console.log(getSousprefectures)
 const {getRegions} = require('guinea-subdivision')
 console.log(getRegions)
 
+// Pour recuperer toutes les communes de la Guinée(retour en array).
+const {getCommunes} = require('guinea-subdivision')
+console.log(getCommunes)
+
+// Pour recuperer tous les quartier de la Guinée(retour en array).
+const {getQuartiers} = require('guinea-subdivision')
+console.log(getQuartiers)
+
 // Pour recuperer toutes les sous prefectures liées à une prefecture.
 const {getSousprefecturesByPrefecture} = require('guinea-subdivision')
 console.log(getSousprefecturesByPrefecture('Boffa')) // La fonction attend un paramètre(le nom de la prefecture)
 
+// Pour recuperer tous les quartiers liées à une commune.
+const {getQuartiersByCommune} = require('guinea-subdivision')
+console.log(getQuartiersByCommune('Kaloum')) // La fonction attend un paramètre(le nom de la prefecture)
+
 // vous pouvez toutes les combinées comme suit.
-const {getPrefectures, getRegions, getSousprefectures, getSousprefecturesByPrefecture} = require('guinea-subdivision')
+const {getPrefectures, getRegions, getSousprefectures, getSousprefecturesByPrefecture, getQuartiers, getCommunes} = require('guinea-subdivision')
 ```
 
 **Site de réference:**<br>

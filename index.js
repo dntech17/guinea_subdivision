@@ -160,7 +160,7 @@ const sousprefecturesByPrefectureData = [
 ]
 
 module.exports = {
-    getRregions: function(){
+    getRegions: function(){
         return regionsData
     },
     getPrefectures: function(){
