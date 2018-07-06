@@ -19,23 +19,23 @@ Utilisation:
 ```js
 // Pour recupérer toutes les prefectures de la Guinée(retour en array).
 const {getPrefectures} = require('guinea-subdivision')
-console.log(getPrefectures)
+console.log(getPrefectures())
 
 // Pour recupérer toutes les sous prefectures de la Guinée(return en array).
 const {getSousprefectures} = require('guinea-subdivision')
-console.log(getSousprefectures)
+console.log(getSousprefectures())
 
 // Pour recuperer toutes les régions de la Guinée(retour en array).
 const {getRegions} = require('guinea-subdivision')
-console.log(getRegions)
+console.log(getRegions())
 
 // Pour recuperer toutes les communes de la Guinée(retour en array).
 const {getCommunes} = require('guinea-subdivision')
-console.log(getCommunes)
+console.log(getCommunes())
 
 // Pour recuperer tous les quartier de la Guinée(retour en array).
 const {getQuartiers} = require('guinea-subdivision')
-console.log(getQuartiers)
+console.log(getQuartiers())
 
 // Pour recuperer toutes les sous prefectures liées à une prefecture.
 const {getSousprefecturesByPrefecture} = require('guinea-subdivision')
