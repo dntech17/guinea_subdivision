@@ -3,20 +3,81 @@
   "version": "1.0.0",
   "description": "Des subdivision fiables pour la prise de décisions de la Guinée",
   "main": "index.js",
+  "files": [
+    "dist",
+    "src"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prebuild": "rimraf dist && mkdirp dist",
+    "test": "standard --fix ",
+    "start": "webpack-dev-server -d --hot --config webpack.config.js --watch",
+    "webpack": "prebuild && webpack ",
+    "dev": "webpack",
+    "prod": "NODE_ENV=production webpack --progress",
+    "build": "prod"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Malal91/guinea-subdivision.git"
+    "url": "git+https://github.com/dntech17/guinea-subdivision.git"
   },
-  "author": "Amadou Malal Diallo",
-  "license": "ISC",
+  "author": "DN TECH",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Malal91/guinea-subdivision.git/issues"
+    "url": "https://github.com/dntech17/guinea-subdivision.git/issues"
   },
-  "homepage": "https://github.com/Malal91/guinea-subdivision.git#readme",
+  "homepage": "https://github.com/dntech17/guinea-subdivision.git#readme",
+  "keywords": [
+    "guinea",
+    "guinee",
+    "subdivision",
+    "repartition",
+    "regions",
+    "prefectures",
+    "sousprefectures",
+    "communes",
+    "quartiers"
+  ],
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "data/",
+      "node_modules/",
+      "dist/",
+      "webpack.config.js"
+    ],
+    "globals": [
+      "fetch"
+    ]
+  },
   "dependencies": {
-    "guinea-subdivision": "^1.0.0"
+    "fs": "0.0.1-security",
+    "lodash": "^4.2.1",
+    "lodash.camelcase": "^4.0.1",
+    "lodash.kebabcase": "^3.1.1",
+    "lodash.keyby": "^4.0.2",
+    "lodash.transform": "^4.0.1",
+    "lodash.uniq": "^4.0.2",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-minify": "^0.4.3",
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "babel-preset-es2015": "^6.24.1",
+    "copy-webpack-plugin": "^4.5.2",
+    "rimraf": "^2.5.1",
+    "standard": "^10.0.3",
+    "uglifyjs-webpack-plugin": "^1.2.7",
+    "webpack": "^4.16.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-dashboard": "^2.0.0",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "engines": {
+    "node": ">=4"
   }
 }
