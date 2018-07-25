@@ -8,10 +8,11 @@
     "src"
   ],
   "scripts": {
-    "prebuild": "rimraf dist && mkdirp dist",
+    "prebuild": "rimraf dist && mkdirp dist && rimraf src/data/min && mkdirp src/data/min",
+    "variables": "./src/scripts/create_variables.sh",
     "test": "standard --fix ",
     "start": "webpack-dev-server -d --hot --config webpack.config.js --watch",
-    "webpack": "prebuild && webpack ",
+    "webpack": "prebuild && variables && webpack ",
     "dev": "webpack",
     "prod": "NODE_ENV=production webpack --progress",
     "build": "prod"

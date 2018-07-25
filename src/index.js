@@ -1,4 +1,5 @@
-import fs from 'fs'
+import {sortBy, uniq} from 'lodash'
+/*import fs from 'fs'
 import path from 'path'
 import {sortBy, uniq} from 'lodash'
 
@@ -8,11 +9,15 @@ const sousprefecturespath = path.join(process.cwd(), 'data', 'sousprefectures.js
 
 let regionsFile = fs.readFileSync(regionsPath)
 let prefecturesFile = fs.readFileSync(prefecturespath)
-let sousprefecturesFile = fs.readFileSync(sousprefecturespath)
+let sousprefecturesFile = fs.readFileSync(sousprefecturespath)*/
 
-const regions = JSON.parse(regionsFile.toString())
+let regions = variableRegion
+let prefectures = variablePrefecture
+let sousprectures = variablesprefecture
+
+/*const regions = JSON.parse(regionsFile.toString())
 const prefectures = JSON.parse(prefecturesFile.toString())
-const sousprefectures = JSON.parse(sousprefecturesFile.toString())
+const sousprefectures = JSON.parse(sousprefecturesFile.toString())*/
 
 /**************************************************/
 /** **************** REGION GETTERS ****************/
@@ -224,3 +229,5 @@ export default {
   getSousprefectureNameByCode,
   getSousprefectureCodeByName
 }
+
+console.log(getRegions())

@@ -34,12 +34,12 @@ let config = {
      },
      plugins: [
          new DashboardPlugin(),
-         new CopyWebpackPlugin([
+         /*new CopyWebpackPlugin([
             { from: './src/data',
               to: 'data',
              toType: 'dir'
             }
-         ])
+         ])*/
      ],
      devServer: {
         contentBase: path.resolve(__dirname, "./dist"),
