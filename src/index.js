@@ -13,7 +13,7 @@ let sousprefecturesFile = fs.readFileSync(sousprefecturespath)*/
 
 let regions = variableRegion
 let prefectures = variablePrefecture
-let sousprectures = variablesprefecture
+let sousprefectures = variablesprefecture
 
 /*const regions = JSON.parse(regionsFile.toString())
 const prefectures = JSON.parse(prefecturesFile.toString())
