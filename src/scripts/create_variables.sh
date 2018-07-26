@@ -1,20 +1,13 @@
 #!/bin/bash
-
-set -o nounset
 set -o errexit
 
-echo "minification...."
-json-minify src/data/src/regions.json > src/data/min/regions.min.json
-json-minify src/data/src/prefectures.json > src/data/min/prefectures.min.json
-json-minify src/data/src/sousprefectures.json > src/data/min/sousprefectures.min.json
-
-echo "lecture des fichier....."
+echo "Reading minified files...."
 region=$(cat src/data/min/regions.min.json)
-prefecture=`cat src/data/min/prefectures.min.json`
-sprefecture=`cat src/data/min/sousprefectures.min.json`
+prefecture=$(cat src/data/min/prefectures.min.json)
+sprefecture=$(cat src/data/min/sousprefectures.min.json)
 
-echo "Affectation des variables..."
-sed -i -e 's|let|var|' 'src/index.js'
+echo "Updating variables in index.js..."
 
-#&& sed -i "s/variablePrefecture/$prefecture/" src/index.js && 
-#sed -i "s/variablesprefecture/$sprefecture/" src/index.js
+sed -i.bak -e "s|let regions = .*|let regions = ${region}|g" src/index.js
+sed -i.bak -e "s|let prefectures = .*|let prefectures = ${prefecture}|g" src/index.js
+sed -i.bak -e "s|let sousprefectures = .*|let sousprefectures = ${sprefecture}|g" src/index.js
