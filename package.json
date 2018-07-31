@@ -1,6 +1,6 @@
 {
   "name": "guinea-subdivision",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Des subdivision fiables pour la prise de décisions de la Guinée",
   "main": "index.js",
   "files": [
@@ -52,17 +52,10 @@
     ]
   },
   "dependencies": {
-    "fs": "0.0.1-security",
-    "lodash": "^4.2.1",
-    "lodash.camelcase": "^4.0.1",
-    "lodash.kebabcase": "^3.1.1",
-    "lodash.keyby": "^4.0.2",
-    "lodash.transform": "^4.0.1",
-    "lodash.uniq": "^4.0.2",
-    "mkdirp": "^0.5.1",
-    "path": "^0.12.7"
+    "lodash": "^4.2.1"
   },
   "devDependencies": {
+    "mkdirp": "^0.5.1",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",

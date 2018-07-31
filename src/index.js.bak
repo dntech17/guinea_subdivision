@@ -226,5 +226,3 @@ export default {
   getSousprefectureNameByCode,
   getSousprefectureCodeByName
 }
-
-console.log(getRegions())
