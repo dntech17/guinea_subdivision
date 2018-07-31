@@ -1,6 +1,6 @@
 {
   "name": "guinea-subdivision",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Des subdivision fiables pour la prise de décisions de la Guinée",
   "main": "dist/index.js",
   "files": [
