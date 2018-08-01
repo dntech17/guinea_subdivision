@@ -248,5 +248,170 @@
         "prefectureCode": "FARA",
         "sousprefectureCode": "TIND",
         "sousprefecture": "Tindo"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "ALB",
+        "sousprefecture": "Albadariah"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "YOM",
+        "sousprefecture": "Yombiro"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "YEN",
+        "sousprefecture": "Yende-Millimou"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "SAN",
+        "sousprefecture": "Sangardo"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "MAN",
+        "sousprefecture": "Manfran"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "KOUN",
+        "sousprefecture": "Koundiatou"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "KIS",
+        "sousprefecture": "kissidougou Centre"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "GBAN",
+        "sousprefecture": "Gbangbadou"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "BANA",
+        "sousprefecture": "Banama"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "BAR",
+        "sousprefecture": "Bardou"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "BEIN",
+        "sousprefecture": "Beindou"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "FER",
+        "sousprefecture": "Fermesadou"
+    },
+    {
+        "prefectureCode": "KISS",
+        "sousprefectureCode": "FIRA",
+        "sousprefecture": "Firawa (Yomadou)"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "BAN",
+        "sousprefecture": "Banankoro"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "SORO",
+        "sousprefecture": "Soromaya"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "SIBI",
+        "sousprefecture": "Sibiribaro"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "LINK",
+        "sousprefecture": "Linko"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "KOUN",
+        "sousprefecture": "Kounsankoro"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "KOMO",
+        "sousprefecture": "Komodou"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "KEROC",
+        "sousprefecture": "Kereouane centre"
+    },
+    {
+        "prefectureCode": "KERO",
+        "sousprefectureCode": "DAMA",
+        "sousprefecture": "Damaro"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "BAB",
+        "sousprefecture": "Babila"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "BAL",
+        "sousprefecture": "Balato"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "BAN",
+        "sousprefecture": "Banfele"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "BAR",
+        "sousprefecture": "Baro"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "CIS",
+        "sousprefecture": "Cissela"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "DOU",
+        "sousprefecture": "Douako"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "DOUR",
+        "sousprefecture": "Doura"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "KIN",
+        "sousprefecture": "Kiniero"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "KOM",
+        "sousprefecture": "Komola-Koura"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "KOUMA",
+        "sousprefecture": "Koumana"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "KOURO",
+        "sousprefecture": "Kouroussa centre"
+    },
+    {
+        "prefectureCode": "KOUR",
+        "sousprefectureCode": "SAN",
+        "sousprefecture": "Sanguiana"
     }
 ]
