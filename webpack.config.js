@@ -15,7 +15,10 @@ let config = {
      mode: "development",
      output: {
          path: path.resolve(__dirname, 'dist'),
-         filename: 'index.js'
+         library: 'guineaSubdivision',
+         filename: 'index.js',
+         libraryTarget: 'umd',
+         umdNamedDefine: true
      },
      target: 'node',
      externals: [nodeExternals()],
