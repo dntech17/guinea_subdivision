@@ -86,6 +86,21 @@ To build a minified version for production use, run the following command
 `
 npm run prod
 `
+##### A bug on UMD (Universal Module Definition)
+[A Tuto can be found here ](http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6)
+
+After a build including the UMD extension, i notice that there is a bug on compiled version located at './dist/index.js'
+the variable `global` on a dev build (Line 10) or a prod build (Line 3) that variable should be replace by `this` reserved word.
+
+```js
+// this is a dev build
+// replace this line
+})(global, function() {
+
+// by the following
+})(this, function() {
+```
+
 Then go ahead and make your PR
 
 **Data source:**<br>
