@@ -5,14 +5,22 @@ by regions, prefectures, sous-prefectures.
 
 ## Installation
 
-With yarn:
+###With yarn:
 ```shell
 $ yarn add guinea-subdivision --save
 ```
 
-With npm:
+###With npm:
 ```shell
 $ npm i guinea-subdivision --save
+```
+
+### In browser
+once loaded in browser alla the functions are available in a global object called `guineaSubdivision`
+then you can acces to getRegions function like this : `guineaSubdivision.getRegions()`
+
+```javascript
+<script src="https://cdn.jsdelivr.net/npm/guinea-subdivision/dist/index.js"></script>
 ```
 
 ##### Functions:
@@ -88,12 +96,13 @@ npm run prod
 `
 ##### Runing the test suite
 To run the test suite make sure first you've :
-- 1 - ran the dev build command
-- 2 - ran the prod build
+- 1 - run the dev build command `npm run dev`
+- 2 - run the prod build `npm run prod`
 thos are needed to minify administrative json files that are used in the dist/index.js
 note: the test suite are made on dist/index.js
 
 then run the following command
+
 `
 npm run test
 `
