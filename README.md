@@ -29,7 +29,7 @@ some of them return and array and some of them retourn a json object
 | -----------------------                        |      --------------------------------------------      |  -------     |
 | `getPrefecturesAndCodes()`                     | return all prefectures and their codes                 |   Json       |
 | `getPrefecturesCodes()`                        | return the prefecutres codes only                      |   Array      |
-| `getPrefectures()`                             | return the list of the prefecutres                     |   Json       |
+| `getPrefectures()`                             | return the list of the prefecutres                     |   Array       |
 | `getPrefecturesAndCodesByRegionCode()`         | return all prefectures and thier code by it region code|   Json       |
 | `getPrefecturesByRegionCode()`                 | return all prefectures by it region code               |   Array      |
 | `getPrefecturesByRegionName()`                 | return all prefectures by it region name               |   Array      |
@@ -86,6 +86,18 @@ To build a minified version for production use, run the following command
 `
 npm run prod
 `
+##### Runing the test suite
+To run the test suite make sure first you've :
+- 1 - ran the dev build command
+- 2 - ran the prod build
+thos are needed to minify administrative json files that are used in the dist/index.js
+note: the test suite are made on dist/index.js
+
+then run the following command
+`
+npm run test
+`
+
 ##### A bug on UMD (Universal Module Definition)
 [A Tuto can be found here ](http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6)
 
