@@ -250,6 +250,7 @@
         "sousprefecture": "Tindo"
     },
     {
+        "comment": " --------------- Kissidougou ---------------",
         "prefectureCode": "KISS",
         "sousprefectureCode": "ALB",
         "sousprefecture": "Albadariah"
@@ -315,6 +316,7 @@
         "sousprefecture": "Firawa (Yomadou)"
     },
     {
+        "comment": " --------------- Kerouane ---------------",
         "prefectureCode": "KERO",
         "sousprefectureCode": "BAN",
         "sousprefecture": "Banankoro"
@@ -355,6 +357,7 @@
         "sousprefecture": "Damaro"
     },
     {
+        "comment": " --------------- Kouroussa ---------------",
         "prefectureCode": "KOUR",
         "sousprefectureCode": "BAB",
         "sousprefecture": "Babila"
@@ -413,5 +416,1365 @@
         "prefectureCode": "KOUR",
         "sousprefectureCode": "SAN",
         "sousprefecture": "Sanguiana"
+    },
+    {
+        "comment": " --------------- Boffa ---------------",
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "BOFF-CENT",
+        "sousprefecture": "Boffa centre"
+    },
+    {
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "DROU",
+        "sousprefecture": "douprou"
+    },
+    {
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "KOBA",
+        "sousprefecture": "koba-tatema"
+    },
+    {
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "KOLI",
+        "sousprefecture": "kolia"
+    },
+    {
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "LISS",
+        "sousprefecture": "lisso"
+    },
+    {
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "MANK",
+        "sousprefecture": "mankountan"
+    },
+    {
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "TAMI",
+        "sousprefecture": "tamita"
+    },
+    {
+        "prefectureCode": "BOFF",
+        "sousprefectureCode": "TOUGN",
+        "sousprefecture": "tougnifili"
+    },
+    {
+        "comment": " --------------- Boke ---------------",
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "BINTI",
+        "sousprefecture": "bintimodiya"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "BOKE-CENT",
+        "sousprefecture": "boké-centre"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "DABI",
+        "sousprefecture": "dabiss"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "KAMS",
+        "sousprefecture": "kamsar"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "KANF",
+        "sousprefecture": "kanfarandé"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "KOLA",
+        "sousprefecture": "kolaboui"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "MALAP",
+        "sousprefecture": "malapouyah"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "SANG",
+        "sousprefecture": "sangarédi"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "SANSA",
+        "sousprefecture": "sansalé"
+    },
+    {
+        "prefectureCode": "BOKE",
+        "sousprefectureCode": "TANE",
+        "sousprefecture": "tanéné  boké"
+    },
+    {
+        "comment": " --------------- Fria ---------------",
+        "prefectureCode": "FRIA",
+        "sousprefectureCode": "BAGUI",
+        "sousprefecture": "baguinet"
+    },
+    {
+        "prefectureCode": "FRIA",
+        "sousprefectureCode": "BANGU",
+        "sousprefecture": "bangouyah"
+    },
+    {
+        "prefectureCode": "FRIA",
+        "sousprefectureCode": "BANGUI",
+        "sousprefecture": "banguigny"
+    },
+    {
+        "prefectureCode": "FRIA",
+        "sousprefectureCode": "FRIA-CENT",
+        "sousprefecture": "fria-centre"
+    },
+    {
+        "prefectureCode": "FRIA",
+        "sousprefectureCode": "TORM",
+        "sousprefecture": "tormelin"
+    },
+    {
+        "comment": " --------------- Gaoul ---------------",
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "FOULA",
+        "sousprefecture": "foulamory"
+    },
+    {
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "GAOUL-CENT",
+        "sousprefecture": "gaoual-centre"
+    },
+    {
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "KAKON",
+        "sousprefecture": "kakony"
+    },
+    {
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "BANT",
+        "sousprefecture": "bantala"
+    },
+    {
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "KOUMB",
+        "sousprefecture": "koumbia"
+    },
+    {
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "KOUNS",
+        "sousprefecture": "kounsitel"
+    },
+    {
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "MALAN",
+        "sousprefecture": "malanta"
+    },
+    {
+        "prefectureCode": "GAOU",
+        "sousprefectureCode": "WEND",
+        "sousprefecture": "wendou m'bour"
+    },
+    {
+        "comment": " --------------- Koundara ---------------",
+        "prefectureCode": "KOUN",
+        "sousprefectureCode": "GUING",
+        "sousprefecture": "guingan"
+    },
+    {
+        "prefectureCode": "KOUN",
+        "sousprefectureCode": "KAMA",
+        "sousprefecture": "kamaby"
+    },
+    {
+        "prefectureCode": "KOUN",
+        "sousprefectureCode": "KOUNDARA-CENT",
+        "sousprefecture": "koundara-centre"
+    },
+    {
+        "prefectureCode": "KOUN",
+        "sousprefectureCode": "SAMB",
+        "sousprefecture": "sambailo"
+    },
+    {
+        "prefectureCode": "KOUN",
+        "sousprefectureCode": "SARE",
+        "sousprefecture": "saréboido"
+    },
+    {
+        "prefectureCode": "KOUN",
+        "sousprefectureCode": "TERM",
+        "sousprefecture": "termessé"
+    },
+    {
+        "prefectureCode": "KOUN",
+        "sousprefectureCode": "YOUKO",
+        "sousprefecture": "youkounkoun"
+    },
+    {
+        "comment": " --------------- Dabola ---------------",
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "BANKO",
+        "sousprefecture": "banko"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "BISSI",
+        "sousprefecture": "bissikrima"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "DABOLA-CENT",
+        "sousprefecture": "dabola-centre"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "DOGO",
+        "sousprefecture": "dogomet"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "KANKAM",
+        "sousprefecture": "kankama"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "KINDO",
+        "sousprefecture": "kindoyé"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "KONIN",
+        "sousprefecture": "konindou"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "DEMA",
+        "sousprefecture": "n'déma"
+    },
+    {
+        "prefectureCode": "DABO",
+        "sousprefectureCode": "ARFA",
+        "sousprefecture": "arfamoussaya"
+    },
+    {
+        "comment": " --------------- DINGUIRAYE ---------------",
+        "prefectureCode": "DING",
+        "sousprefectureCode": "BANO",
+        "sousprefecture": "banora"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "DIALA-F",
+        "sousprefecture": "dialakoro faranah"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "DIATI",
+        "sousprefecture": "diatiféré"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "DING-CENT",
+        "sousprefecture": "dinguiraye-centre"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "GAGNA",
+        "sousprefecture": "gagnakali"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "KALINK",
+        "sousprefecture": "kalinko"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "KALLI",
+        "sousprefecture": "kallia"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "LANSA",
+        "sousprefecture": "lansanya"
+    },
+    {
+        "prefectureCode": "DING",
+        "sousprefectureCode": "SELOU",
+        "sousprefecture": "sélouma"
+    },
+    {
+        "comment": " --------------- Mandiana ---------------",
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "BALAN",
+        "sousprefecture": "balandougouba"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "DIALA-K",
+        "sousprefecture": "dialakoro kankan"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "FARAL",
+        "sousprefecture": "faralako"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "KANTO",
+        "sousprefecture": "kantoumania"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "KINIE",
+        "sousprefecture": "kiniéran"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "KOUNDI",
+        "sousprefecture": "koundian"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "KOUNDIA",
+        "sousprefecture": "koundianakoro"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "MAND-CENT",
+        "sousprefecture": "mandiana-centre"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "MORO",
+        "sousprefecture": "morodou"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "NIANT",
+        "sousprefecture": "niantania"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "SALAD",
+        "sousprefecture": "saladou"
+    },
+    {
+        "prefectureCode": "MAND",
+        "sousprefectureCode": "SANSAN",
+        "sousprefecture": "sansando"
+    },
+    {
+        "comment": " --------------- Siguiri ---------------",
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "BANKON",
+        "sousprefecture": "bankon"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "DOKO",
+        "sousprefecture": "doko"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "FRANW",
+        "sousprefecture": "franwalia"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "KINIE",
+        "sousprefecture": "kiniébakoura"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "KINTIN",
+        "sousprefecture": "kintinian"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "MALE",
+        "sousprefecture": "maléah"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "NABOU",
+        "sousprefecture": "naboun"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "NIAGA",
+        "sousprefecture": "niagassola"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "NIAND",
+        "sousprefecture": "niandankoro"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "NORA",
+        "sousprefecture": "norassoba"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "SIGU-CENT",
+        "sousprefecture": "siguiri-centre"
+    },
+    {
+        "prefectureCode": "SIGU",
+        "sousprefectureCode": "SIGUI",
+        "sousprefecture": "siguirini"
+    },
+    {
+        "comment": " --------------- Coyah ---------------",
+        "prefectureCode": "COYA",
+        "sousprefectureCode": "KOUNDIA",
+        "sousprefecture": "coyah-centre"
+    },
+    {
+        "prefectureCode": "COYA",
+        "sousprefectureCode": "KOURI",
+        "sousprefecture": "kouriah"
+    },
+    {
+        "prefectureCode": "COYA",
+        "sousprefectureCode": "MANEA",
+        "sousprefecture": "manéah"
+    },
+    {
+        "prefectureCode": "COYA",
+        "sousprefectureCode": "WONKI",
+        "sousprefecture": "wonkifong"
+    },
+    {
+        "comment": " --------------- Dubréka ---------------",
+        "prefectureCode": "DUBR",
+        "sousprefectureCode": "BADI",
+        "sousprefecture": "badi"
+    },
+    {
+        "prefectureCode": "DUBR",
+        "sousprefectureCode": "DUBR-CENT",
+        "sousprefecture": "dubréka-centre"
+    },
+    {
+        "prefectureCode": "DUBR",
+        "sousprefectureCode": "FALES",
+        "sousprefecture": "falessade"
+    }, {
+        "prefectureCode": "DUBR",
+        "sousprefectureCode": "KHOR",
+        "sousprefecture": "khorira"
+    },
+    {
+        "prefectureCode": "DUBR",
+        "sousprefectureCode": "OUAS",
+        "sousprefecture": "ouassou"
+    },
+    {
+        "prefectureCode": "DUBR",
+        "sousprefectureCode": "TANENE-DUBR",
+        "sousprefecture": "tanéné dubréka"
+    },
+    {
+        "prefectureCode": "DUBR",
+        "sousprefectureCode": "TOND",
+        "sousprefecture": "tondon"
+    },
+    {
+        "comment": " --------------- Forékaria ---------------",
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "ALAS",
+        "sousprefecture": "alassoya"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "BENTY",
+        "sousprefecture": "benty"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "FARMO",
+        "sousprefecture": "farmoriah"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "FORE-CENT",
+        "sousprefecture": "forécariah-centre"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "KABAC",
+        "sousprefecture": "kaback"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "KAKOS",
+        "sousprefecture": "kakossa"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "KALIN",
+        "sousprefecture": "kalinko"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "KALLIA",
+        "sousprefecture": "kallia"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "MAFER",
+        "sousprefecture": "maférinya"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "MOUSS",
+        "sousprefecture": "moussayah"
+    },
+    {
+        "prefectureCode": "FORE",
+        "sousprefectureCode": "SIKHO",
+        "sousprefecture": "sikhourou"
+    },
+    {
+        "comment": " --------------- Kindia ---------------",
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "BANG",
+        "sousprefecture": "bangouyah"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "DAMAN",
+        "sousprefecture": "damankanyah"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "FRIGUI",
+        "sousprefecture": "friguiagbé"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "KIND-CENT",
+        "sousprefecture": "kindia-centre"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "KOLEN",
+        "sousprefecture": "kolenté"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "MADI",
+        "sousprefecture": "madina-oula"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "MAMB",
+        "sousprefecture": "mambia"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "MOLOT",
+        "sousprefecture": "molota"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "SAMA",
+        "sousprefecture": "samayah"
+    },
+    {
+        "prefectureCode": "KIND",
+        "sousprefectureCode": "SOUGUE",
+        "sousprefecture": "sougueta"
+    },
+    {
+        "comment": " --------------- télimélé ---------------",
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "BOUR",
+        "sousprefecture": "bourouwal"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "DARA",
+        "sousprefecture": "daramagnaky"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "GOUG",
+        "sousprefecture": "gougoudjé"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "KOBA-TELI",
+        "sousprefecture": "koba télimélé"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "KOLLET-TELI",
+        "sousprefecture": "kollet télimélé"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "KONSO",
+        "sousprefecture": "konsotamy"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "MISSIRA-TELI",
+        "sousprefecture": "missira télimélé"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "SANTO",
+        "sousprefecture": "santou"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "SARE",
+        "sousprefecture": "sarékaly"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "SINTA",
+        "sousprefecture": "sinta"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "SINTA",
+        "sousprefecture": "sinta"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "SOGOL",
+        "sousprefecture": "sogolon"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "TARIH",
+        "sousprefecture": "tarihoye"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "TELI-CENT",
+        "sousprefecture": "télimélé-centre"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "THION",
+        "sousprefecture": "thionthian"
+    },
+    {
+        "prefectureCode": "TELI",
+        "sousprefectureCode": "TORM",
+        "sousprefecture": "tormélin"
+    },
+    {
+        "comment": " --------------- lélouma ---------------",
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "BALA",
+        "sousprefecture": "balaya"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "DIOUN",
+        "sousprefecture": "diountou"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "HERIC",
+        "sousprefecture": "hérico"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "KORBE",
+        "sousprefecture": "korbé"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "LAFOU",
+        "sousprefecture": "lafou"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "LELO-CENT",
+        "sousprefecture": "lélouma-centre"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "LINS-SAR",
+        "sousprefecture": "linsan saran"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "MANDA",
+        "sousprefecture": "manda"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "PARA",
+        "sousprefecture": "parawol"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "SAGAL",
+        "sousprefecture": "sagalé"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "TYANG",
+        "sousprefecture": "tyanguel-bori"
+    },
+    {
+        "prefectureCode": "LELO",
+        "sousprefectureCode": "PETO",
+        "sousprefecture": "pétoye"
+    },
+    {
+        "comment": " --------------- mali ---------------",
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "BALA",
+        "sousprefecture": "balaki"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "DONGHO",
+        "sousprefecture": "donghol-sigon"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "DOUGOU",
+        "sousprefecture": "dougountouny"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "FOUGOU",
+        "sousprefecture": "fougou"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "GAYAH",
+        "sousprefecture": "gayah"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "HIDAY",
+        "sousprefecture": "hidayatou"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "LEBE",
+        "sousprefecture": "lébékére"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "MADI-WO",
+        "sousprefecture": "madina-wora"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "MALI-CENT",
+        "sousprefecture": "mali-centre"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "SALAM",
+        "sousprefecture": "salambandé"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "TELIR",
+        "sousprefecture": "téliré"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "TOUBA-MALI",
+        "sousprefecture": "touba mali"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "YIMB",
+        "sousprefecture": "yimbéring"
+    },
+    {
+        "prefectureCode": "MALI",
+        "sousprefectureCode": "MADINA",
+        "sousprefecture": "madina"
+    },
+    {
+        "comment": " --------------- tougué ---------------",
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "FATA",
+        "sousprefecture": "fatako"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "FELLO",
+        "sousprefecture": "fello-koundoua"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "KOIN",
+        "sousprefecture": "koïn"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "KOLAN",
+        "sousprefecture": "kolangui"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "KOLLET-TOUG",
+        "sousprefecture": "kollet tougué"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "KONA",
+        "sousprefecture": "konah"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "KOURA",
+        "sousprefecture": "kouratongo"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "TANGA",
+        "sousprefecture": "tangali"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "TOUG-CENT",
+        "sousprefecture": "tougué-centre"
+    },
+    {
+        "prefectureCode": "TOUG",
+        "sousprefectureCode": "KANSAG",
+        "sousprefecture": "kansagui"
+    },
+    {
+        "comment": " --------------- dalaba ---------------",
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "BODIE",
+        "sousprefecture": "bodié"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "DALA-CENT",
+        "sousprefecture": "dalaba-centre"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "DITIN",
+        "sousprefecture": "ditinn"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "DAALA",
+        "sousprefecture": "kaala"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "KANKA",
+        "sousprefecture": "kankalabé"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "KEBA",
+        "sousprefecture": "kébali"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "KOBA-DALA",
+        "sousprefecture": "koba dalaba"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "MAFA",
+        "sousprefecture": "mafara"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "MITTY",
+        "sousprefecture": "mitty"
+    },
+    {
+        "prefectureCode": "DALA",
+        "sousprefectureCode": "MOMB",
+        "sousprefecture": "mombéyah"
+    },
+    {
+        "comment": " --------------- mamou ---------------",
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "BOULI",
+        "sousprefecture": "bouliwel"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "DOUN",
+        "sousprefecture": "dounet"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "GONGOR",
+        "sousprefecture": "gongoret"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "KEGNE",
+        "sousprefecture": "kégnéko"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "KOUK",
+        "sousprefecture": "konkouré"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "MAMO-CENT",
+        "sousprefecture": "mamou-centre"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "NYAGA",
+        "sousprefecture": "nyagara"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "OURE",
+        "sousprefecture": "ouré-kaba"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "PORED",
+        "sousprefecture": "porédaka"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "SARAM",
+        "sousprefecture": "saramoussaya"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "SOYAH",
+        "sousprefecture": "soyah"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "TEGUE",
+        "sousprefecture": "téguéréya"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "TIMB",
+        "sousprefecture": "timbo"
+    },
+    {
+        "prefectureCode": "MAMO",
+        "sousprefectureCode": "TOLO",
+        "sousprefecture": "tolo"
+    },
+    {
+        "comment": " --------------- pita ---------------",
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "BANTI",
+        "sousprefecture": "bantignel"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "BOUR-TAP",
+        "sousprefecture": "bourouwal-tappé"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "DONGOL",
+        "sousprefecture": "dongol-touma"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "GONGORE",
+        "sousprefecture": "gongore"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "LEY-MI",
+        "sousprefecture": "ley-miro"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "MACI",
+        "sousprefecture": "maci"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "NINGU",
+        "sousprefecture": "ninguélandé"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "PITA-CENT",
+        "sousprefecture": "pita-centre"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "SANGAR",
+        "sousprefecture": "sangaréah"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "SINTALI",
+        "sousprefecture": "sintali"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "TIMBI-MADI",
+        "sousprefecture": "timbi-madina"
+    },
+    {
+        "prefectureCode": "PITA",
+        "sousprefectureCode": "TIMBI-TOU",
+        "sousprefecture": "timbi-touny"
+    },
+    {
+        "comment": " --------------- beyla ---------------",
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "BEYL-CENT",
+        "sousprefecture": "beyla-centre"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "BOOLA",
+        "sousprefecture": "boola"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "DIARA",
+        "sousprefecture": "diara-guerela"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "DIASS",
+        "sousprefecture": "diassodou"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "FOUALA",
+        "sousprefecture": "fouala"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "GBAKE",
+        "sousprefecture": "gbakedou"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "GBESS",
+        "sousprefecture": "gbessoba"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "KARALA",
+        "sousprefecture": "karala"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "KOUMA",
+        "sousprefecture": "koumandou"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "MOUSSA",
+        "sousprefecture": "moussadou"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "NIONS",
+        "sousprefecture": "nionsomoridou"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "SAMAN",
+        "sousprefecture": "samana"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "SINKO",
+        "sousprefecture": "sinko"
+    },
+    {
+        "prefectureCode": "BEYL",
+        "sousprefectureCode": "SOKOU",
+        "sousprefecture": "sokourala"
+    },
+    {
+        "comment": " --------------- guékédou ---------------",
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "BOLOD",
+        "sousprefecture": "bolodou"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "FANGA",
+        "sousprefecture": "fangamadou"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "GUEC-CENT",
+        "sousprefecture": "guéckédou-centre"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "GUEND",
+        "sousprefecture": "guendembou"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "KASSA",
+        "sousprefecture": "kassadou"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "KOUIN",
+        "sousprefecture": "kouindou"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "NONGOA",
+        "sousprefecture": "nongoa"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "OUEN",
+        "sousprefecture": "ouéndé-kénéma"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "TEKOUL",
+        "sousprefecture": "tékoulo"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "TERMIS",
+        "sousprefecture": "termessadou-dibo"
+    },
+    {
+        "prefectureCode": "GUEC",
+        "sousprefectureCode": "BEIND",
+        "sousprefecture": "beindou"
+    },
+    {
+        "comment": " --------------- lola ---------------",
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "BOSSO",
+        "sousprefecture": "bossou"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "FOUM",
+        "sousprefecture": "foumbadou"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "GAMA-BE",
+        "sousprefecture": "gama-béréma"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "GUEAS",
+        "sousprefecture": "guéassou"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "KOKO",
+        "sousprefecture": "kokota"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "LAINE",
+        "sousprefecture": "lainé"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "LOLA-CENT",
+        "sousprefecture": "lola-centre"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "NZOO",
+        "sousprefecture": "n'zoo"
+    },
+    {
+        "prefectureCode": "LOLA",
+        "sousprefectureCode": "TOUNK",
+        "sousprefecture": "tounkarata"
+    },
+    {
+        "comment": " --------------- macenta ---------------",
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "BALIZ",
+        "sousprefecture": "balizia"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "BINI",
+        "sousprefecture": "binikala"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "BOFOS",
+        "sousprefecture": "bofossou"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "DARO",
+        "sousprefecture": "daro"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "FASSA",
+        "sousprefecture": "fassankoni"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "KOUAN",
+        "sousprefecture": "kouankan"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "KOYA",
+        "sousprefecture": "koyamah"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "MACE-CENT",
+        "sousprefecture": "macenta-centre"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "NZEBE",
+        "sousprefecture": "n'zébéla"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "OUREM",
+        "sousprefecture": "ourémaï"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "PANZI",
+        "sousprefecture": "panziazou"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "SENGB",
+        "sousprefecture": "sengbédou"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "SERED",
+        "sousprefecture": "sérédou"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "VASSE",
+        "sousprefecture": "vassérédou"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "WATAN",
+        "sousprefecture": "watanka"
+    },
+    {
+        "comment": " --------------- nzérékoré ---------------",
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "BOUNO",
+        "sousprefecture": "bounouma"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "GOUEC",
+        "sousprefecture": "gouécké"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "KOBELA",
+        "sousprefecture": "kobéla"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "KOROP",
+        "sousprefecture": "koropara"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "KOULE",
+        "sousprefecture": "koulé"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "NZER-CENT",
+        "sousprefecture": "n'zérékoré-centre"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "PALE",
+        "sousprefecture": "palé"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "SAMOE",
+        "sousprefecture": "samoé"
+    },
+    {
+        "prefectureCode": "MACE",
+        "sousprefectureCode": "SOUL",
+        "sousprefecture": "soulouta"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "WOMEY",
+        "sousprefecture": "womey"
+    },
+    {
+        "prefectureCode": "NZER",
+        "sousprefectureCode": "YALEN",
+        "sousprefecture": "yalenzou"
+    },
+    {
+        "comment": " --------------- yomou ---------------",
+        "prefectureCode": "YOMO",
+        "sousprefectureCode": "BANIE",
+        "sousprefecture": "banié"
+    },
+    {
+        "prefectureCode": "YOMO",
+        "sousprefectureCode": "BHEET",
+        "sousprefecture": "bheeta"
+    },
+    {
+        "prefectureCode": "YOMO",
+        "sousprefectureCode": "BIGNA",
+        "sousprefecture": "bignamou"
+    },
+    {
+        "prefectureCode": "YOMO",
+        "sousprefectureCode": "BOWE",
+        "sousprefecture": "bowé"
+    },
+    {
+        "prefectureCode": "YOMO",
+        "sousprefectureCode": "DIECKE",
+        "sousprefecture": "diécké"
+    },
+    {
+        "prefectureCode": "YOMO",
+        "sousprefectureCode": "PELA",
+        "sousprefecture": "péla"
+    },
+    {
+        "prefectureCode": "YOMO",
+        "sousprefectureCode": "YOMO-CENT",
+        "sousprefecture": "yomou-centre"
     }
 ]
